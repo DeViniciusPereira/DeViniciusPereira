@@ -16,7 +16,7 @@ Preferência por **Programação Web Front-end** e curto transformar ideias em e
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=flat&logo=vue.js&logoColor=%234FC08D)
+![AngularJS](https://img.shields.io/badge/angularjs-%23E23237.svg?&style=flat&logo=angularjs&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
 
