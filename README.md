@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @DeViniciusPereira
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá, eu sou o DeViniciusPereira! 👋
 
-<!---
-DeViniciusPereira/DeViniciusPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-vindo ao meu perfil do GitHub!  
+Preferência por **Programação Web Front-end** e curto transformar ideias em experiências digitais incríveis.
+
+## 🚀 Sobre mim
+
+- 🎨 Desenvolvedor Frontend focado em criar interfaces modernas, responsivas e acessíveis.
+- 💻 Experiência com **HTML, CSS, JavaScript** e frameworks como **React** e **Angular.js**.
+- 🌱 Sempre aprendendo novas tecnologias e melhores práticas em Frontend.
+- 💬 Gosto de compartilhar conhecimento e colaborar em projetos open source.
+
+## 🛠️ Tecnologias & Ferramentas
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=flat&logo=vue.js&logoColor=%234FC08D)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
+
+## 📈 GitHub Stats
+
+![DeViniciusPereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeViniciusPereira&show_icons=true&theme=radical)
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/vinicius-gcp) 
+- [Email](vinniegcp@gmail.com)
+
+---
+
+<div align="center">
+   DeViniciusPereira
+</div>
